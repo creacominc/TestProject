@@ -14,6 +14,7 @@
 		3646F16C2B95022900B5CF30 /* TestProjectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3646F16B2B95022900B5CF30 /* TestProjectTests.swift */; };
 		3646F1762B95022900B5CF30 /* TestProjectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3646F1752B95022900B5CF30 /* TestProjectUITests.swift */; };
 		3646F1782B95022900B5CF30 /* TestProjectUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3646F1772B95022900B5CF30 /* TestProjectUITestsLaunchTests.swift */; };
+		3646F1852B95045300B5CF30 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 3646F1842B95045300B5CF30 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		3646F1712B95022900B5CF30 /* TestProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestProjectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3646F1752B95022900B5CF30 /* TestProjectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestProjectUITests.swift; sourceTree = "<group>"; };
 		3646F1772B95022900B5CF30 /* TestProjectUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestProjectUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		3646F1842B95045300B5CF30 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +77,7 @@
 		3646F14D2B95022800B5CF30 = {
 			isa = PBXGroup;
 			children = (
+				3646F1842B95045300B5CF30 /* README.md */,
 				3646F1582B95022800B5CF30 /* TestProject */,
 				3646F16A2B95022900B5CF30 /* TestProjectTests */,
 				3646F1742B95022900B5CF30 /* TestProjectUITests */,
@@ -233,6 +236,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3646F1852B95045300B5CF30 /* README.md in Resources */,
 				3646F1612B95022900B5CF30 /* Preview Assets.xcassets in Resources */,
 				3646F15E2B95022900B5CF30 /* Assets.xcassets in Resources */,
 			);
